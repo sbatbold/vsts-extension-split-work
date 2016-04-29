@@ -4,7 +4,7 @@
     "version": "0.1.0",
     "name": "vsts-extension-split-work",
     "scopes": [ "vso.work", "vso.work_write" ],
-    "description": "Describe your extension.",
+    "description": "Split a work item to track work that will continue into the next sprint.",
     "publisher": "blueprint-team",
     "public": false,
     "icons": {
@@ -16,7 +16,7 @@
         }
     ],
     "tags": [
-        "Sample"
+        "Split" "Agile" "Sprint"
     ],
     "content": {
         "details": {
@@ -24,15 +24,6 @@
         }
     },
     "links": {
-        "home": {
-            "uri": "https://bit.ly"
-        },
-        "getstarted": {
-            "uri": "https://bit.ly"
-        },
-        "learn": {
-            "uri": "https://bit.ly"
-        },
         "support": {
             "uri": "https://bit.ly"
         },
@@ -44,7 +35,7 @@
         }
     },
     "branding": {
-        "color": "rgb(220, 235, 252)",
+        "color": "#2973D9",
         "theme": "light"
     },
     "files": [
@@ -70,7 +61,7 @@
         }
     ],
     "categories": [
-        "Integrate"
+        "Plan and track"
     ],
     "contributions": [
         {
